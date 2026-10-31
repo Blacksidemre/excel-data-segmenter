@@ -1,0 +1,1 @@
+{"name":"excelops-build","version":"1.0.0","private":true,"description":"Developer-only workbook packaging; end users need only ExcelOps.xlsm","scripts":{"build":"node build.cjs","test":"node ../tests/package.test.cjs"},"dependencies":{"cfb":"1.2.2","exceljs":"4.4.0","fflate":"0.8.3","iconv-lite":"0.7.2"}}
